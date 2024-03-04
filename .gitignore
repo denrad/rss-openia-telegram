@@ -1,0 +1,5 @@
+/runtime/
+/processed_news
+/.env
+.venv
+.idea
